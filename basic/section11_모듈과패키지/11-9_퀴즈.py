@@ -12,8 +12,11 @@
 # 유튜브 : http://youtube.com
 # 이메일 : nadocoding@gmail.com
 
+
+
 import byme
 byme.sign()
 
+# 오류 났었음. : 모듈은 폴더링 X  호출하는 곳과 같은 경로에 잇어야 함.
 
 
