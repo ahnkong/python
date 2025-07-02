@@ -53,8 +53,3 @@ station = ["사당", "신도림", "김포공항"]
 
 for i in station :
     print(i, "행 열차가 들어오고 있습니다.")
-
-
-# 연산자
-
-pr
