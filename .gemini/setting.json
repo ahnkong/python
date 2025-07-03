@@ -1,0 +1,15 @@
+{
+    "mcpServers" : {
+        "superbase" : {
+            "command" : "npx",
+            "args" : [
+                "-y",
+                "@superbase/mcp-server-superbase@latest"
+            ],
+            "env": {
+                "SUPERBASE_ACCESS_TOKEN" : "sbp_bba1b6edd2201407feed4b3febe31f7845868639"
+            }
+        }
+    }
+
+}
