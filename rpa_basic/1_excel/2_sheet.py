@@ -21,6 +21,4 @@ target = wb.copy_worksheet(new_ws)
 target.title = "Copied Sheet"
 
 
-
-
 wb.save("sample.xlsx")
